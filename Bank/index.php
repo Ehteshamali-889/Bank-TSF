@@ -62,21 +62,7 @@
     </ul>
   </div>
 </nav>
-  <!-- <nav>
-    <div class="container-fluid nav-wrapper amber accent-4">
-      <a href="index.php" class="brand-logo"><img src="https://www.thesparksfoundationsingapore.org/images/logo_small.png" style="height:70px;width:60px" /></a>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="./php/transfermoney.php">View Customers</a></li>
-        <li><a href="./php/transactionhistory.php">Transactions</a></li>
-      </ul>
-    </div>
-  </nav> -->
-
-  <!--heading / title -->
-  <!-- <div class="center head mt-0" style="background-color: #dcdcdc;">
-    <h2><b><span><img src="https://www.thesparksfoundationsingapore.org/images/logo_small.png" style="height:70px;width:60px" /></span>TSF BANK</b></h2>
-  </div> -->
+  
 
   <!---3 col start-->
   <div class="row center sect">
